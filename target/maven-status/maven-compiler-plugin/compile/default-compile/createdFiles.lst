@@ -1,0 +1,7 @@
+controlador\EnsamblarComputadoraServlet.class
+com\mycompany\aplicacion\de\ventas\resources\JakartaEE8Resource.class
+controlador\ComponenteController.class
+com\mycompany\aplicacion\de\ventas\JakartaRestConfiguration.class
+modelo\ConexionBD.class
+modelo\Componente.class
+controlador\ProcesadorArchivo.class

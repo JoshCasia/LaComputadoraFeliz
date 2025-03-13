@@ -1,0 +1,5 @@
+USUARIO(“dmorales”,”miPassword”,1)
+PIEZA(“Procesador Intel i7”, 2500.00)
+COMPUTADORA(“Gamer Pro”, 10500.00)
+ENSAMBLE_PIEZA(“Gamer Pro”, “Procesador Intel i7”, 1)
+ENSAMBLAR_COMPUTADORA(“Gamer Pro”, dmorales, “21/02/2025”)
